@@ -1,2 +1,2 @@
 # SALES
-THIS IS MY FIRST POWERBI PROJECT 
+This is the first PROJECTS for sales insights data analysis project using power BI
